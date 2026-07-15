@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5KDPfG8YP0=",
+  "success": true,
+  "projectFilePath": "E:\\practice\\.NET\\DomeGym\\GymManagement.Api\\GymManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Amin\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "E:\\practice\\.NET\\DomeGym\\GymManagement.Api\\GymManagement.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\practice\\.NET\\DomeGym\\GymManagement.Api\\GymManagement.Api.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
